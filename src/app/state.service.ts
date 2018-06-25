@@ -25,7 +25,7 @@ export class StateService {
       concept: "",
       nationality: "",
       faction: "",
-      loge: "",
+      lodge: "",
       rank: "",
       experience: "",
       status: 1,
